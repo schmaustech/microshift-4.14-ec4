@@ -1,5 +1,5 @@
 # microshift-4.14-ec4
-
+~~~bash
 [root@asus3-vm1 ~]# dnf repolist
 Updating Subscription Management repositories.
 repo id                                                                                           repo name
@@ -225,3 +225,4 @@ Installed:
   unbound-libs-1.16.2-3.el9.x86_64                                                                       
 
 Complete!
+~~~
